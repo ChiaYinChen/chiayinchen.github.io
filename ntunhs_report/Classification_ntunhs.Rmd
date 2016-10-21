@@ -1,7 +1,7 @@
 ---
 title: "Classification_ntunhs"
 author: "Chia-Yin Chen"
-date: "2016年10月20日"
+date: "2016年10月19日"
 output: slidy_presentation
 ---
 
