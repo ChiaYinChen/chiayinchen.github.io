@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chia-Yin Chen</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Chia-Yin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>awdrg1210@gmail.com (Denise Chen)</managingEditor>
+    <webMaster>awdrg1210@gmail.com (Denise Chen)</webMaster>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>awdrg1210@gmail.com (Denise Chen)</author>
+      <guid>/page/about/</guid>
+      <description>今年 23 歲，喜歡學習新科技新技能，從害怕挑戰轉向去擁抱挑戰，很享受解決問題的成就感。
+踏上夢想這條路後，我體悟到 &amp;hellip; 不是很厲害才能開始做，而是要做了才能變得很厲害。如果你/妳也和我一樣，對自己所熱衷的事物有熱情，就開始一步一腳印的去鑽研精進那些能讓你熱血沸騰的事情吧！</description>
+    </item>
+    
+  </channel>
+</rss>

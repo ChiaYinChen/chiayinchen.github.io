@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chia-Yin Chen</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Chia-Yin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>awdrg1210@gmail.com (Denise Chen)</managingEditor>
+    <webMaster>awdrg1210@gmail.com (Denise Chen)</webMaster>
+    <lastBuildDate>Thu, 28 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      <author>awdrg1210@gmail.com (Denise Chen)</author>
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>/tags/jupyter-notebook/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      <author>awdrg1210@gmail.com (Denise Chen)</author>
+      <guid>/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaggle</title>
+      <link>/tags/kaggle/</link>
+      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
+      <author>awdrg1210@gmail.com (Denise Chen)</author>
+      <guid>/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
