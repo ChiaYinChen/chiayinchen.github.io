@@ -5,8 +5,8 @@
     <link>/</link>
     <description>Recent content on Chia-Yin Chen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>awdrg1210@gmail.com (Carol Chen)</managingEditor>
-    <webMaster>awdrg1210@gmail.com (Carol Chen)</webMaster>
+    <managingEditor>carolchency@gmail.com (© Carol Chen)</managingEditor>
+    <webMaster>carolchency@gmail.com (© Carol Chen)</webMaster>
     <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -16,18 +16,16 @@
       <title>使用 Jupyter Notebook 運行 R 語言環境</title>
       <link>/post/2017-12-29-%E4%BD%BF%E7%94%A8jupyter-notebook%E9%81%8B%E8%A1%8Cr%E8%AA%9E%E8%A8%80%E7%92%B0%E5%A2%83/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-      <author>awdrg1210@gmail.com (Carol Chen)</author>
+      <author>carolchency@gmail.com (© Carol Chen)</author>
       <guid>/post/2017-12-29-%E4%BD%BF%E7%94%A8jupyter-notebook%E9%81%8B%E8%A1%8Cr%E8%AA%9E%E8%A8%80%E7%92%B0%E5%A2%83/</guid>
-      <description>&lt;p&gt;推薦安裝 &lt;a href=&#34;https://www.anaconda.com/download/&#34;&gt;Anaconda&lt;/a&gt;，因為安裝 Anaconda 的同時也已安裝 Jupyter Notebook。安裝完 Anaconda 以後，可以在程式集裡看到 Anaconda Navigator、Anaconda Prompt、IPython、Jupyter Notebook、spyder 等。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;推薦安裝 &lt;a href=&#34;https://www.anaconda.com/download/&#34;&gt;Anaconda&lt;/a&gt;，因為安裝 Anaconda 的同時也已安裝 Jupyter Notebook。安裝完 Anaconda 以後，可以在程式集裡看到 Anaconda Navigator、Anaconda Prompt、IPython、Jupyter Notebook、spyder 等。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Titanic: Machine Learning from Disaster</title>
       <link>/post/2017-12-28-titanic-machine-learning-from-disaster/</link>
       <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
-      <author>awdrg1210@gmail.com (Carol Chen)</author>
+      <author>carolchency@gmail.com (© Carol Chen)</author>
       <guid>/post/2017-12-28-titanic-machine-learning-from-disaster/</guid>
       <description>1 Introduction1.1 匯入資料 (Import Data)1.2 觀察資料外觀 (Data Overview)2 特徵工程 (Feature Engineering)2.1 Passenger Title2.2 Children vs. Women vs. Men2.3 Solo Travel vs. Group Travel3 遺漏值處理 (Impute Missing Value)4 訓練模型 (Training a Model)4.1 變數選擇 (Variable Selection)4.2 建立分類模型 (Building a Classification Model)4.3 變數的重要性 (Variable Importance)5 衡量模型表現 (Evaluating Model Performance)5.1 模型錯誤率 (Model Error)5.2 模型準確度 (Model Accuracy)5.</description>
     </item>
@@ -36,10 +34,14 @@
       <title>About me</title>
       <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>awdrg1210@gmail.com (Carol Chen)</author>
+      <author>carolchency@gmail.com (© Carol Chen)</author>
       <guid>/page/about/</guid>
-      <description>今年 23 歲，喜歡學習新科技新技能，從害怕挑戰轉向去擁抱挑戰，很享受解決問題的成就感。
-踏上夢想這條路後，我體悟到 &amp;hellip; 不是很厲害才能開始做，而是要做了才能變得很厲害。如果你/妳也和我一樣，對自己所熱衷的事物有熱情，就開始一步一腳印的去鑽研精進那些能讓你熱血沸騰的事情吧！</description>
+      <description>EXPERIENCE  Data Engineer&amp;ensp;|&amp;ensp;SparkAmplify
+February 2018 - July 2018   Data Engineer&amp;ensp;|&amp;ensp;BigData
+December 2018 – Present 
+SKILLS  Technical:
+Web Crawler / Scraping、Data Visualization、Machine Learning  Programming:
+Python、R、SQL、Git、HTML / CSS / JavaScript</description>
     </item>
     
   </channel>
