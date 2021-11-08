@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kaggle on Chia-Yin Chen</title>
-    <link>/tags/kaggle/</link>
-    <description>Recent content in Kaggle on Chia-Yin Chen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>carolchency@gmail.com (© Carol Chen)</managingEditor>
-    <webMaster>carolchency@gmail.com (© Carol Chen)</webMaster>
-    <lastBuildDate>Thu, 28 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/kaggle/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Titanic: Machine Learning from Disaster</title>
-      <link>/post/2017-12-28-titanic-machine-learning-from-disaster/</link>
-      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
-      <author>carolchency@gmail.com (© Carol Chen)</author>
-      <guid>/post/2017-12-28-titanic-machine-learning-from-disaster/</guid>
-      <description>1 Introduction1.1 匯入資料 (Import Data)1.2 觀察資料外觀 (Data Overview)2 特徵工程 (Feature Engineering)2.1 Passenger Title2.2 Children vs. Women vs. Men2.3 Solo Travel vs. Group Travel3 遺漏值處理 (Impute Missing Value)4 訓練模型 (Training a Model)4.1 變數選擇 (Variable Selection)4.2 建立分類模型 (Building a Classification Model)4.3 變數的重要性 (Variable Importance)5 衡量模型表現 (Evaluating Model Performance)5.1 模型錯誤率 (Model Error)5.2 模型準確度 (Model Accuracy)5.</description>
-    </item>
-    
-  </channel>
-</rss>
